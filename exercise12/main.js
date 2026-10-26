@@ -4,3 +4,4 @@ const fruit=["Banana", "Apple", "Lemon", "Watermelon"];
     for (let i=0; i<fruit.length; i++) {
     console.log(fruit[i])
 }
+
